@@ -45,7 +45,7 @@ Or use your virtual environment manager of choice, requirements are in the [Pipf
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Gvanderl/CrossDimNoughts.git
+   git clone https://github.com/iradab/Reinforcement-Learning-Tic-Tac-Toe.git
    ```
 2. Install packages
    ```sh
@@ -66,7 +66,7 @@ Run the notebook to play against our agent !
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/gvanderl/CrossDimNoughts/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/iradab/Reinforcement-Learning-Tic-Tac-Toe/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -85,10 +85,16 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+<!-- Authors -->
+## Authors
+* **Irada Bunyatova**     [iradab](https://github.com/iradab)
+* **Daniil Smolyakov**    [DanonOfficial](https://github.com/DanonOfficial)
+* **Victor Videau**       [vvideau](https://github.com/vvideau)
+* **Gaël Van der Lee**    [Gvanderl](https://github.com/Gvanderl)
 
 
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/gvanderl/CrossDimNoughts](https://github.com/gvanderl/CrossDimNoughts)
+Project Link: [https://github.com/iradab/Reinforcement-Learning-Tic-Tac-Toe](https://github.com/iradab/Reinforcement-Learning-Tic-Tac-Toe)
 
